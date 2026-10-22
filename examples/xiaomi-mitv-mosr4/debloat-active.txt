@@ -1,0 +1,37 @@
+# CleanYourTV debloat list for Xiaomi MiTV-MOSR4 (irobot, Android 11)
+# Safe debloat: telemetry, PatchWall, ad rows, promo apps, cleaners, and OTA updates.
+
+# Xiaomi telemetry / attribution
+com.miui.tv.analytics
+com.xiaomi.statistic
+com.xiaomi.tvqs.overseas
+com.google.android.partnersetup
+
+# Ad rows, promos and content providers on the home screen
+com.mitv.tvhome.oemtab
+com.mitv.tvhome.michannel
+com.mitv.tvhome.mitvplus
+com.mitv.tvhome.atv
+com.xm.webcontent
+com.mitv.toolhouse
+
+# Retail demo mode and nagware
+fusion.android.tv.demo
+com.xiaomi.mitv.tvmanager
+com.xiaomo.tv.milegal
+android.autoinstalls.config.xiaomi.amelie
+
+# Mi Cast / Miracast duplicates (Chromecast built-in mediashell is preserved)
+com.xiaomi.mitv.smartshare
+com.xiaomi.wfdsinkhelperservice
+
+# Preloaded apps
+com.xiaomi.mimusic2
+com.google.android.play.games
+com.mitv.videoplayer
+com.mitv.gallery
+
+# Firmware updates disabled (per user choice)
+com.xiaomi.mitv.updateservice
+com.mitv.upgrader
+com.mitv.ABUpdateStatus

@@ -1,0 +1,18 @@
+# ============================================================
+# CleanYourTV - Realme & Coocaa / Skyworth Android TV
+# Safe Debloat Profile (Non-Root, 100% Reversible)
+# ============================================================
+
+# --- Realme TV Bloatware & Recommendations ---
+com.realme.tv.customizer
+com.realme.tv.recommend
+com.realme.tv.gallery
+com.realme.tv.appstore
+
+# --- Coocaa / Skyworth Recommendations & Stores ---
+com.skyworth.tv.recommend
+com.coocaa.mall
+com.coocaa.tv.recommendations
+com.skyworth.tv.usercenter
+com.skyworth.tv.appmarket
+com.skyworth.mediacenter

@@ -1,0 +1,16 @@
+# ============================================================
+# CleanYourTV - Google TV / Chromecast / Sony Bravia
+# Safe Debloat Profile (Non-Root, 100% Reversible)
+# ============================================================
+
+# --- Google TV Heavy Stock Launcher & Ad Feeds ---
+com.google.android.apps.tv.launcherx
+com.google.android.tungsten.setupwraith
+com.google.android.tvrecommendations
+com.google.android.videos
+
+# --- Sony Bravia Promo & Bloat (If applicable) ---
+com.sony.dtv.bravialife
+com.sony.dtv.recommendations
+com.sony.dtv.interactivetvutil.activatortv
+com.sony.dtv.braviasyncservice

@@ -1,0 +1,24 @@
+# ============================================================
+# CleanYourTV - TCL Android TV / Google TV
+# Safe Debloat Profile (Non-Root, 100% Reversible)
+# ============================================================
+
+# --- TCL Heavy Custom Launchers & Channel Overlays ---
+com.tcl.waterfall.overseas
+com.tcl.cyberui
+com.tcl.dashboard
+com.tcl.channel
+com.tcl.tvplus
+com.tcl.livefeed
+
+# --- TCL Telemetry, Guard & User Agreements ---
+com.tcl.partnercustomizer
+com.tcl.guard
+com.tcl.useragreement
+com.tcl.messagebox
+
+# --- TCL Bloat Utilities & Stores ---
+com.tcl.browser
+com.tcl.appmarket
+com.tcl.gallery
+com.tcl.mediacenter

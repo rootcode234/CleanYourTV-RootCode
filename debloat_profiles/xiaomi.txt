@@ -1,0 +1,27 @@
+# ============================================================
+# CleanYourTV - Xiaomi / Redmi Android TV
+# Safe Debloat Profile (Non-Root, 100% Reversible)
+# ============================================================
+
+# --- Stock PatchWall & Xiaomi Home Launchers ---
+com.mitv.tvhome
+com.mitv.tvhome.michannel
+com.mitv.tvhome.oemtab
+
+# --- Xiaomi Statistics, Tracking & Partner Promos ---
+com.xiaomi.statistic
+com.xiaomi.android.tvsetup.partnercustomizer
+com.mitv.overseaservice
+
+# --- Xiaomi Default Heavy Media & Gallery Apps ---
+# (Safe to disable; user can use VLC, Nova, SmartTube, etc.)
+com.xiaomi.mitv.mediaexplorer
+com.mitv.media
+com.mitv.videoplayer
+com.mitv.gallery
+com.mitv.toolhouse
+com.xiaomi.mimusic2
+
+# --- Background Updaters & System Promos ---
+com.mitv.upgrader
+com.xiaomi.mitv.scenemode
